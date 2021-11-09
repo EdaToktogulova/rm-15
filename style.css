@@ -69,7 +69,7 @@ table{
     position: fixed;
     bottom: 0;
     right: 0;
-   display: flex;
+    display: flex;
   }
   .ex-2 span {
     display: none;
