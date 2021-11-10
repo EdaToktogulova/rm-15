@@ -50,7 +50,7 @@ table{
     left: 0;
   }
   .ex-1 i:active {
-  color: black;
+    color: black;
   }
   .ex-1 i:hover {
     color: black;
