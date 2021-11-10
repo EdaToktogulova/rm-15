@@ -5,7 +5,6 @@ table{
     display: inline;
     justify-content: space-between;
     align-items: stretch;
-  
   } 
   .navbar ul {
     margin: 0;
@@ -22,7 +21,7 @@ table{
    table .first {
      background-color: rgb(83, 83, 255);
    }
-   
+
    .dropdown {
     display: flex;
   
