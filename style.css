@@ -41,7 +41,7 @@ table{
   .ex-1 {
     border-radius: 100%;
     padding: 9px;
-   border: none;
+    border: none;
     background-color: rgb(201, 30, 0);
     color: white;
     display: flex;
