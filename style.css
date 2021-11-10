@@ -18,7 +18,7 @@ table{
      justify-content: space-between;
      text-decoration: none;
    }
-   
+
    table .first {
      background-color: rgb(83, 83, 255);
    }
@@ -44,6 +44,7 @@ table{
     border-radius: 50px 50px;
     background-color: red;
   }
+  
   .ex-1 {
     border-radius: 100%;
     padding: 9px;
