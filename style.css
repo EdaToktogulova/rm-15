@@ -34,7 +34,6 @@ table{
 
   .dropdown-right{
     display: flex;
-  
     position: fixed;
      bottom: 0;
      right: 950px;
