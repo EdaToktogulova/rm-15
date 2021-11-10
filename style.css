@@ -18,6 +18,7 @@ table{
      justify-content: space-between;
      text-decoration: none;
    }
+   
    table .first {
      background-color: rgb(83, 83, 255);
    }
